@@ -1,0 +1,26 @@
+
+  {
+    "name": "Probashi Counter",
+    "description": "Building an button counting Extension!",
+    "version": "1.0",
+    "manifest_version": 3,
+  
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "main.html",
+      "default_icon": {
+        "16": "images/Count-to-One-Hundred-Step-16x16.jpg",
+        "32": "images/Count-to-One-Hundred-Step2x32.jpg",
+        "48": "images/Count-to-One-Hundred-Step48x48.jpg",
+        "128": "images/Count-to-One-Hundred-Step28x128.jpg"
+      }
+    },
+    "icons": {
+      "16": "images/Count-to-One-Hundred-Step-16x16.jpg",
+      "32": "images/Count-to-One-Hundred-Step2x32.jpg",
+      "48": "images/Count-to-One-Hundred-Step48x48.jpg",
+      "128": "images/Count-to-One-Hundred-Step28x128.jpg"
+    }
+
+  
+  }
